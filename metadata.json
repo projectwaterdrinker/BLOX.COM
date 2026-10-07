@@ -1,0 +1,6 @@
+{
+  "name": "Roblox Web - Experiences, Avatar & Community",
+  "description": "The ultimate virtual universe to create, share experiences with friends, customize your 3D avatar, and explore top games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
